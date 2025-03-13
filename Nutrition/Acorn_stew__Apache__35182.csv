@@ -1,0 +1,157 @@
+Categories,Name,Measurement,Daily Value
+Macronutrients,Weight,100g,
+Macronutrients,Calories (kcal),95,5%
+Macronutrients,Fat,3.5g,4%
+Macronutrients,Protein,6.8g,14%
+Macronutrients,Carbohydrate,9.2g,3%
+Macronutrients,Sugars,0.34g,1%
+Macronutrients,Fiber,0.7g,3%
+Macronutrients,Cholesterol,20mg,7%
+Macronutrients,Saturated Fats,1.3g,6%
+Macronutrients,Net-Carbs,8.5g,
+Macronutrients,Trans Fatty Acids,--g,
+Minerals,Calcium,14mg,1%
+Minerals,"Iron, Fe",1mg,6%
+Minerals,"Potassium, K",110mg,2%
+Minerals,Magnesium,12mg,3%
+Minerals,"Phosphorus, P",62mg,5%
+Minerals,Sodium,130mg,5%
+Minerals,"Zinc, Zn",1.6mg,15%
+Minerals,"Copper, Cu",0.03mg,3%
+Minerals,Manganese,0.14mg,6%
+Minerals,"Selenium, Se",8.3mcg,15%
+Minerals,"Fluoride, F",--mcg,--%
+Minerals,Molybdenum,--mcg,
+Minerals,"Iodine, I",--mcg,
+Minerals,Chlorine,--mg,
+Minerals,Chromium,--mcg,
+Vitamins,"Vitamin A, RAE",0mcg,0%
+Vitamins,Vitamin C,0mg,0%
+Vitamins,Thiamin (B1),0.18mg,15%
+Vitamins,Riboflavin (B2),0.13mg,10%
+Vitamins,Niacin (B3),2.1mg,13%
+Vitamins,Vitamin B5 (PA),0.21mg,4%
+Vitamins,Vitamin B6,0.06mg,3%
+Vitamins,Biotin,--mcg,
+Vitamins,Folate (B9),33mcg,8%
+Vitamins,Folic acid,15mcg,4%
+Vitamins,Food Folate,18mcg,5%
+Vitamins,Folate DFE,44mcg,11%
+Vitamins,Choline,--mg,--%
+Vitamins,Vitamin B12,0.68mcg,28%
+Vitamins,Retinol,0mcg,
+Vitamins,"Carotene, beta",--mcg,--%
+Vitamins,"Carotene, alpha",--mcg,--%
+Vitamins,"Cryptoxanthin, beta",--mcg,--%
+Vitamins,"Vitamin A, IU",0IU,
+Vitamins,Lycopene,--mcg,
+Vitamins,Lut + Zeaxanthin,--mcg,
+Vitamins,Vitamin E,0.3mg,2%
+Vitamins,Vitamin D,--mcg,--%
+Vitamins,Vitamin D2,--mcg,
+Vitamins,Vitamin D3,--mcg,
+Vitamins,Vitamin D (IU),--IU,--%
+Vitamins,Vitamin K,0mcg,0%
+Vitamins,Vitamin K1,0mcg,
+Vitamins,Menaquinone-4 (K2),0.9mcg,
+Other,Water,79.8g,
+Other,Ash,0.72g,
+Other,Alcohol,--g,
+Other,Caffeine,--mg,
+Other,Theobromine,--mg,
+Other,PRAL score,2.81,
+Carbs & Sugars,Soluble Fiber,--g,
+Carbs & Sugars,Insoluble Fiber,--g,
+Carbs & Sugars,Added Sugar,--g,--%
+Carbs & Sugars,Sucrose,0.16g,
+Carbs & Sugars,Glucose (Dextrose),0g,
+Carbs & Sugars,Fructose,0g,
+Carbs & Sugars,Lactose,0g,
+Carbs & Sugars,Maltose,0.19g,
+Carbs & Sugars,Galactose,0g,
+Carbs & Sugars,Starch,6.6g,
+Carbs & Sugars,"Carbohydrate, other",--g,
+Carbs & Sugars,Total sugar alcohols,--g,
+Fats,Total Monounsaturated,1.68g,
+Fats,Total Polyunsaturated,0.297g,
+Fats,Omega 3s,0.01g,1%
+Fats,Omega 6s,0.26g,2%
+Fats,Omega 3 to Omega 6 Ratio,0.04,
+Fats,Omega 6 to Omega 3 Ratio,26,
+Omega 3 Fats,alpha-Linolenic Acid (ALA),--g,--%
+Omega 3 Fats,Eicosapentaenoic Acid (EPA),0g,
+Omega 3 Fats,Docosapentaenoic Acid (DPA),0g,
+Omega 3 Fats,Docosahexaenoic Acid (DHA),0g,
+Omega 3 Fats,n-3-Eicosatrienoic Acid (20:3),--g,
+Omega-6 Fats,Linoleic Acid (18:2 n-6 cis cis),--g,
+Omega-6 Fats,gamma-Linolenic Acid (GLA),--g,
+Omega-6 Fats,cis-cis-n6-Eicosadienoic Acid,0.007g,
+Omega-6 Fats,Dihomo-gamma-linolenic acid (DGLA),--g,
+Omega-6 Fats,Arachidonic acid (AA),--g,
+Omega-6 Fats,Butyric (4:0),--g,
+Omega-6 Fats,Caproic (6:0),--g,
+Omega-6 Fats,Caprylic Acid (8:0),0g,
+Omega-6 Fats,Capric Acid (10:0),0g,
+Omega-6 Fats,Lauric Acid (12:0),0g,
+Omega-6 Fats,Tridecanoic Acid (13:0),--g,
+Omega-6 Fats,Myristic Acid (14:0),0.09g,
+Omega-6 Fats,Pentadecanoic Acid (15:0),0.01g,
+Omega-6 Fats,Palmitic Acid (16:0),0.75g,
+Omega-6 Fats,Margaric Acid (17:0),0.04g,
+Omega-6 Fats,Stearic Acid (18:0),0.39g,
+Omega-6 Fats,Arachidic Acid (20:0),0g,
+Omega-6 Fats,Behenic Acid (22:0),0g,
+Omega-6 Fats,Lignoceric Acid (24:0),0g,
+Monounsaturated Fats,Myristoleic Acid (14:1),0.02g,
+Monounsaturated Fats,Pentadecenoic Acid (15:1),0g,
+Monounsaturated Fats,Palmitoleic Acid (16:1),0.11g,
+Monounsaturated Fats,cis-Palmitoleic Acid (16:1 cis),--g,
+Monounsaturated Fats,Heptadecenoic Acid (17:1),0.03g,
+Monounsaturated Fats,Oleic Acid (18:1),1.51g,
+Monounsaturated Fats,cis-Oleic Acid (18:1 cis),--g,
+Monounsaturated Fats,cis-Vaccenic acid,--g,
+Monounsaturated Fats,Gadoleic Acid (20:1),0.01g,
+Monounsaturated Fats,Docosenoic Acid (22:1),0g,
+Monounsaturated Fats,cis-Docosenoic Acid (22:1 cis),--g,
+Monounsaturated Fats,cis-Tetracosenoic Acid (24:1 cis),0g,
+Polyunsaturated Fats,Octadecadienoic Acid (18:2),0.26g,
+Polyunsaturated Fats,Conjugated Linoleic Acid (CLAs),--g,
+Polyunsaturated Fats,i-Octadecadienoic Acid (18:2 mixed isomers),--g,
+Polyunsaturated Fats,undifferentiated-Octadecatrienoic,0.01g,
+Polyunsaturated Fats,Octadecatrienoic Acid (mixed isomers),--g,
+Polyunsaturated Fats,Parinaric Acid (18:4),0.02g,
+Polyunsaturated Fats,Eicosatrienoic Acid (20:3),0g,
+Polyunsaturated Fats,Eicosatetraenoic Acid 20:4,0g,
+Polyunsaturated Fats,Heneicosapentaenoic Acid 21:5,0g,
+Polyunsaturated Fats,22:4,0g,
+Trans Fats,Trans-Polyenoic Fats,--g,
+Trans Fats,Trans-Monoenoic Fats,--g,
+Trans Fats,trans-Palmitoleic Acid (16:1 trans),--g,
+Trans Fats,trans-Oleic Acid (18:1 trans),--g,
+Trans Fats,trans-Docosenoic Acid (22:1 trans),--g,
+Trans Fats,trans-Octadecadienoic Acid (18:2 trans),--g,
+Trans Fats,trans-trans-Octadecadienoic Acid (18:2 trans trans),--g,
+Phytosterols (Plant Sterols),Total Phytosterols,--g,
+Phytosterols (Plant Sterols),Stigmasterol,--g,
+Phytosterols (Plant Sterols),Campesterol,--g,
+Phytosterols (Plant Sterols),Beta-sitosterol,--g,
+Essential Amino Acids,Histidine,230mg,33%
+Essential Amino Acids,Isoleucine,350mg,25%
+Essential Amino Acids,Leucine,620mg,23%
+Essential Amino Acids,Lysine,580mg,28%
+Essential Amino Acids,Methionine,160mg,22%
+Essential Amino Acids,Phenylalanine,330mg,38%
+Essential Amino Acids,Threonine,360mg,34%
+Essential Amino Acids,Tryptophan,40mg,14%
+Essential Amino Acids,Valine,390mg,21%
+Conditionally Essential Amino Acids,Arginine,470mg,
+Conditionally Essential Amino Acids,Cystine,90mg,31%
+Conditionally Essential Amino Acids,Glycine,420mg,
+Conditionally Essential Amino Acids,Proline,460mg,
+Conditionally Essential Amino Acids,Tyrosine,250mg,29%
+Non-Essential Amino Acids,Alanine,450mg,
+Non-Essential Amino Acids,Aspartic acid,830mg,
+Non-Essential Amino Acids,Betaine,--mg,
+Non-Essential Amino Acids,Glutamic acid,1510mg,
+Non-Essential Amino Acids,Hydroxyproline,--mg,
+Non-Essential Amino Acids,Serine,330mg,

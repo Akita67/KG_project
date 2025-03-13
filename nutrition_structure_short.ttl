@@ -1,0 +1,3270 @@
+@prefix ex: <http://example.org/> .
+@prefix obo: <http://purl.obolibrary.org/obo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ex:Acorn_stew__Apache_ a ex:Food ;
+    ex:hasName "Acorn_stew__Apache_"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_5cc8dfa318,
+        ex:Histidine_1b736965e5,
+        ex:Isoleucine_5f041b9abd,
+        ex:Leucine_4c7d98f370,
+        ex:Lysine_9e169ac503,
+        ex:Methionine_6bf10fd3c4,
+        ex:Phenylalanine_e7bd161915,
+        ex:Protein_b58039012e,
+        ex:Threonine_6716bdd5a5,
+        ex:Tryptophan_33bdd6d2c5,
+        ex:Valine_d2d6144936,
+        ex:Weight_1bf0ed63c3 .
+
+ex:Alaskan_King_Crab a ex:Food ;
+    ex:hasName "Alaskan_King_Crab"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_573d4d9483,
+        ex:Histidine_8c2569e713,
+        ex:Isoleucine_5add41e6bf,
+        ex:Leucine_08104408af,
+        ex:Lysine_01a93687af,
+        ex:Methionine_d754718a8f,
+        ex:Phenylalanine_a2cdf83d6c,
+        ex:Protein_3143e78306,
+        ex:Threonine_154f51db7a,
+        ex:Tryptophan_e1d2fa3757,
+        ex:Valine_a90c907561,
+        ex:Weight_5c0f21c856 .
+
+ex:Amaranth_leaves_cooked_boiled_drained_without_salt a ex:Food ;
+    ex:hasName "Amaranth_leaves_cooked_boiled_drained_without_salt"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_68f3660519,
+        ex:Histidine_80381bab59,
+        ex:Isoleucine_ea2341e270,
+        ex:Leucine_bf5f8f6599,
+        ex:Lysine_97b9a939a1,
+        ex:Methionine_622b7cbd1e,
+        ex:Phenylalanine_d7b3c48e66,
+        ex:Protein_ab1cccd434,
+        ex:Threonine_d3899a7464,
+        ex:Tryptophan_9be76f52ec,
+        ex:Valine_815ba6acc9,
+        ex:Weight_9510e7c095 .
+
+ex:Apricots_dried_sulfured_stewed_without_added_sugar a ex:Food ;
+    ex:hasName "Apricots_dried_sulfured_stewed_without_added_sugar"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_ed11ded390,
+        ex:Histidine_023d7e885e,
+        ex:Isoleucine_05b5377f78,
+        ex:Leucine_0140f233ae,
+        ex:Lysine_4cca0bdd24,
+        ex:Methionine_feda721e20,
+        ex:Phenylalanine_a6b8d17d70,
+        ex:Protein_360c323757,
+        ex:Threonine_a9065653c7,
+        ex:Tryptophan_5da29babf1,
+        ex:Valine_296a39a10a,
+        ex:Weight_7d9c4f4be0 .
+
+ex:Beans_pink_mature_seeds_cooked_boiled_without_salt a ex:Food ;
+    ex:hasName "Beans_pink_mature_seeds_cooked_boiled_without_salt"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_e78122e7fe,
+        ex:Histidine_19ef996898,
+        ex:Isoleucine_c7ad90ad73,
+        ex:Leucine_bfb6b89f20,
+        ex:Lysine_d9de0c6718,
+        ex:Methionine_8b119a526f,
+        ex:Phenylalanine_698feb37b2,
+        ex:Protein_a70e2fc125,
+        ex:Threonine_83d1d8995f,
+        ex:Tryptophan_804b88c677,
+        ex:Valine_a1a75aeb43,
+        ex:Weight_ea726d4de9 .
+
+ex:Beef_chuck_arm_pot_roast_separable_lean_only_trimmed_to_1_8__fat_choice_cooked_braised a ex:Food ;
+    ex:hasName "Beef_chuck_arm_pot_roast_separable_lean_only_trimmed_to_1_8__fat_choice_cooked_braised"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_91e8d9798c,
+        ex:Histidine_9c17a950f6,
+        ex:Isoleucine_775b8e381f,
+        ex:Leucine_9eb67dbeed,
+        ex:Lysine_1b601e9c5e,
+        ex:Methionine_974a88d50d,
+        ex:Phenylalanine_568b770ae0,
+        ex:Protein_c14ed4d053,
+        ex:Threonine_5ef4cbfaa8,
+        ex:Tryptophan_7a341a287d,
+        ex:Valine_d1eec4e7a7,
+        ex:Weight_b0f8130741 .
+
+ex:Beef_rib_eye_roast_bone-in_lip-on_separable_lean_only_trimmed_to_1_8__fat_select_cooked_roasted a ex:Food ;
+    ex:hasName "Beef_rib_eye_roast_bone-in_lip-on_separable_lean_only_trimmed_to_1_8__fat_select_cooked_roasted"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_006838b743,
+        ex:Histidine_7673787006,
+        ex:Isoleucine_467e461962,
+        ex:Leucine_64b420d830,
+        ex:Lysine_423cd78cd2,
+        ex:Methionine_7249b10b79,
+        ex:Phenylalanine_d99445bb1c,
+        ex:Protein_bae12580cc,
+        ex:Threonine_5785d40060,
+        ex:Tryptophan_c6d58d2304,
+        ex:Valine_a04c77990b,
+        ex:Weight_bdcb3270b4 .
+
+ex:Crackers_standard_snack-type_regular_low_salt a ex:Food ;
+    ex:hasName "Crackers_standard_snack-type_regular_low_salt"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_e4df8157d2,
+        ex:Histidine_b4ca259405,
+        ex:Isoleucine_d0051eda62,
+        ex:Leucine_4b587a48ba,
+        ex:Lysine_bdc16015a6,
+        ex:Methionine_339434bca6,
+        ex:Phenylalanine_06900be394,
+        ex:Protein_377c8b021a,
+        ex:Threonine_46ccfb1fca,
+        ex:Tryptophan_59eb18940a,
+        ex:Valine_cbb657ac09,
+        ex:Weight_fc834ed644 .
+
+ex:DailyValue rdfs:subClassOf <http://example.org/22:4>,
+        ex:AddedSugar,
+        ex:Alanine,
+        ex:Alcohol,
+        ex:ArachidicAcid,
+        ex:ArachidonicAcid,
+        ex:Arginine,
+        ex:Ash,
+        ex:Asparticacid,
+        ex:BehenicAcid,
+        ex:Betaine,
+        ex:Betasitosterol,
+        ex:Biotin,
+        ex:Butyric,
+        ex:Caffeine,
+        ex:Calcium,
+        ex:Calories,
+        ex:Campesterol,
+        ex:CapricAcid,
+        ex:Caproic,
+        ex:CaprylicAcid,
+        ex:Carbohydrate,
+        ex:Carotenealpha,
+        ex:Carotenebeta,
+        ex:Chloride,
+        ex:Cholesterol,
+        ex:Choline,
+        ex:Chromium,
+        ex:ConjugatedLinoleicAcid,
+        ex:Copper,
+        ex:Cryptoxanthinbeta,
+        ex:Cystine,
+        ex:DihomogammalinolenicAcid,
+        ex:DocosahexaenoicAcid,
+        ex:DocosapentaenoicAcid,
+        ex:DocosenoicAcid,
+        ex:EicosapentaenoicAcid,
+        ex:EicosatetraenoicAcid,
+        ex:EicosatrienoicAcid,
+        ex:Fat,
+        ex:Fiber,
+        ex:Fluoride,
+        ex:Folate,
+        ex:FolateDFE,
+        ex:Folicacid,
+        ex:Foodfolate,
+        ex:Fructose,
+        ex:GadoleicAcid,
+        ex:Galactose,
+        ex:Glucose,
+        ex:Glutamicacid,
+        ex:Glycine,
+        ex:HeneicosapentaenoicAcid,
+        ex:HeptadecenoicAcid,
+        ex:Histidine,
+        ex:Hydroxyproline,
+        ex:InsolubleFiber,
+        ex:Iodine,
+        ex:Iron,
+        ex:Isoleucine,
+        ex:Lactose,
+        ex:LauricAcid,
+        ex:Leucine,
+        ex:LignocericAcid,
+        ex:LutZeaxanthin,
+        ex:Lycopene,
+        ex:Lysine,
+        ex:Magnesium,
+        ex:Maltose,
+        ex:Manganese,
+        ex:MargaricAcid,
+        ex:Menaquinone4,
+        ex:Methionine,
+        ex:Molybdenum,
+        ex:MyristicAcid,
+        ex:MyristoleicAcid,
+        ex:NetCarbs,
+        ex:NiacinB3,
+        ex:OctadecadienoicAcid,
+        ex:OctadecatrienoicAcid,
+        ex:OleicAcid,
+        ex:Omega3s,
+        ex:Omega3toOmega6Ratio,
+        ex:Omega6s,
+        ex:Omega6toOmega3Ratio,
+        ex:PRALscore,
+        ex:PalmiticAcid,
+        ex:PalmitoleicAcid,
+        ex:ParinaricAcid,
+        ex:PentadecanoicAcid,
+        ex:PentadecenoicAcid,
+        ex:Phenylalanine,
+        ex:Phosphorus,
+        ex:Potassium,
+        ex:Proline,
+        ex:Protein,
+        ex:Retinol,
+        ex:RiboflavinB2,
+        ex:SaturatedFats,
+        ex:Selenium,
+        ex:Serine,
+        ex:Sodium,
+        ex:SolubleFiber,
+        ex:StearicAcid,
+        ex:Stigmasterol,
+        ex:Strarch,
+        ex:Sucrose,
+        ex:SugarAlcohols,
+        ex:Sugars,
+        ex:Theobromine,
+        ex:ThiaminB1,
+        ex:Threonine,
+        ex:TotalMonounsaturated,
+        ex:TotalPhytosterols,
+        ex:TotalPolyunsaturated,
+        ex:TransFattyAcids,
+        ex:TransMonoenoicFats,
+        ex:TransPolyenoicFats,
+        ex:TridecanoicAcid,
+        ex:Tryptophan,
+        ex:Tyrosine,
+        ex:Valine,
+        ex:VitaminA,
+        ex:VitaminAIU,
+        ex:VitaminB12,
+        ex:VitaminB5,
+        ex:VitaminB6,
+        ex:VitaminC,
+        ex:VitaminD,
+        ex:VitaminD2,
+        ex:VitaminD3,
+        ex:VitaminDIU,
+        ex:VitaminE,
+        ex:VitaminK,
+        ex:VitaminK1,
+        ex:Water,
+        ex:Weight,
+        ex:Zinc,
+        ex:alphaLinolenicAcid,
+        ex:cisDocosenoicAcid,
+        ex:cisOleicAcid,
+        ex:cisPalmitoleicAcid,
+        ex:cisTetracosenoicAcid,
+        ex:cisVaccenicAcid,
+        ex:ciscisn6EicosadienoicAcid,
+        ex:gammaLinolenicAcid,
+        ex:iOctadecadienoicAcid,
+        ex:n3EicosatrienoicAcid,
+        ex:otherSugar,
+        ex:transDocosenoicAcid,
+        ex:transOctadecadienoicAcid,
+        ex:transOleicAcid,
+        ex:transPalmitoleicAcid,
+        ex:transtransOctadecadienoicAcid,
+        ex:undifferentiatedOctadecatrienoic .
+
+ex:Dried_Eggs a ex:Food ;
+    ex:hasName "Dried_Eggs"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_8f908c7384,
+        ex:Histidine_c23178867a,
+        ex:Isoleucine_04d0d9cab0,
+        ex:Leucine_99bfca271e,
+        ex:Lysine_e103bb7aa9,
+        ex:Methionine_49745fb6ba,
+        ex:Phenylalanine_ed6cc576f0,
+        ex:Protein_329ff9db4e,
+        ex:Threonine_bc2e34ad25,
+        ex:Tryptophan_cdb32dc3ec,
+        ex:Valine_216dc0ade0,
+        ex:Weight_fe6a997b84 .
+
+ex:Duck_domesticated_meat_only_raw a ex:Food ;
+    ex:hasName "Duck_domesticated_meat_only_raw"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_b1d75b6da3,
+        ex:Histidine_da09ca3e5e,
+        ex:Isoleucine_3f5f38f573,
+        ex:Leucine_c6bdc26a1c,
+        ex:Lysine_6c86f7867d,
+        ex:Methionine_5620e31a0b,
+        ex:Phenylalanine_0f7196b19c,
+        ex:Protein_dddd813513,
+        ex:Threonine_8584c74b97,
+        ex:Tryptophan_d836c15486,
+        ex:Valine_24e01f6b38,
+        ex:Weight_e6e7cdf85f .
+
+ex:Egg_Omelet a ex:Food ;
+    ex:hasName "Egg_Omelet"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_dc58486cb7,
+        ex:Histidine_1fdc805f15,
+        ex:Isoleucine_9536e0ea2d,
+        ex:Leucine_7dad450f75,
+        ex:Lysine_a80a085ad6,
+        ex:Methionine_e7215413d4,
+        ex:Phenylalanine_d88462aa2d,
+        ex:Protein_0bb3add6bd,
+        ex:Threonine_f858b9f12d,
+        ex:Tryptophan_18bcbe7e9e,
+        ex:Valine_c74fb5c62e,
+        ex:Weight_c0189c6161 .
+
+ex:English_Muffins_Wheat_Toasted a ex:Food ;
+    ex:hasName "English_Muffins_Wheat_Toasted"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_c7e0f7a81c,
+        ex:Histidine_df1e5bea64,
+        ex:Isoleucine_652fc3e5e8,
+        ex:Leucine_424ecf2566,
+        ex:Lysine_108fe9f9f3,
+        ex:Methionine_582f4878e4,
+        ex:Phenylalanine_5cb58dd1ec,
+        ex:Protein_43156a4d16,
+        ex:Threonine_effae419c1,
+        ex:Tryptophan_46a4abcdcf,
+        ex:Valine_aae739e05f,
+        ex:Weight_d81b2eb1b4 .
+
+ex:Fish_ling_raw a ex:Food ;
+    ex:hasName "Fish_ling_raw"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_381545cca7,
+        ex:Histidine_d01a1eed99,
+        ex:Isoleucine_cc194327d6,
+        ex:Leucine_4e3abe6477,
+        ex:Lysine_caefe9699a,
+        ex:Methionine_ad8bc2210e,
+        ex:Phenylalanine_f42456545f,
+        ex:Protein_0a42b78405,
+        ex:Threonine_c8738bc65d,
+        ex:Tryptophan_7b4f3b0846,
+        ex:Valine_bacec79fc0,
+        ex:Weight_df4d9f6d07 .
+
+ex:Fish_salmon_chinook_smoked__lox__regular a ex:Food ;
+    ex:hasName "Fish_salmon_chinook_smoked__lox__regular"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_db411cd653,
+        ex:Histidine_e9a4dc78fe,
+        ex:Isoleucine_dc582dd003,
+        ex:Leucine_3b0f24914f,
+        ex:Lysine_c1d0dc0a13,
+        ex:Methionine_fc706b0dfd,
+        ex:Phenylalanine_3090df55e0,
+        ex:Protein_39bf58805b,
+        ex:Threonine_b6fe2a10f0,
+        ex:Tryptophan_81b1830451,
+        ex:Valine_54bc58fa0c,
+        ex:Weight_f64a4b59af .
+
+ex:Fontina_Cheese a ex:Food ;
+    ex:hasName "Fontina_Cheese"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_db696ce21d,
+        ex:Histidine_59ca4b488a,
+        ex:Isoleucine_3d55214146,
+        ex:Leucine_acd72cd4e5,
+        ex:Lysine_0b4dfcdc37,
+        ex:Methionine_9952e0c58c,
+        ex:Phenylalanine_c01e733d48,
+        ex:Protein_a0f72e9c3f,
+        ex:Threonine_f49add9fe2,
+        ex:Tryptophan_a9c39b2127,
+        ex:Valine_ae1f2eaddc,
+        ex:Weight_957dd1b22f .
+
+ex:Green_Leaf_Lettuce a ex:Food ;
+    ex:hasName "Green_Leaf_Lettuce"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_d4302516e2,
+        ex:Histidine_f293c96801,
+        ex:Isoleucine_2f1abfac70,
+        ex:Leucine_a323d9ad43,
+        ex:Lysine_f41d681c1f,
+        ex:Methionine_b9588fbf95,
+        ex:Phenylalanine_1526f8e7a9,
+        ex:Protein_ef72014167,
+        ex:Threonine_5e9032bc45,
+        ex:Tryptophan_907b89748f,
+        ex:Valine_e4a6f88d78,
+        ex:Weight_550c1e841b .
+
+ex:Hard_Goat_Cheese a ex:Food ;
+    ex:hasName "Hard_Goat_Cheese"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_b28e965f12,
+        ex:Histidine_61a01aadcb,
+        ex:Isoleucine_b8faafe1b5,
+        ex:Leucine_e99bfaff37,
+        ex:Lysine_5c56a091b9,
+        ex:Methionine_a48104861c,
+        ex:Phenylalanine_cccd30709b,
+        ex:Protein_8c71811991,
+        ex:Threonine_4bbf0c0dd3,
+        ex:Tryptophan_b9ee2add08,
+        ex:Valine_e1f1f7b15c,
+        ex:Weight_8998ab376e .
+
+ex:Ice_creams_french_vanilla_soft-serve a ex:Food ;
+    ex:hasName "Ice_creams_french_vanilla_soft-serve"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_6bc91cd46e,
+        ex:Histidine_aed7bbefd9,
+        ex:Isoleucine_decb841cb0,
+        ex:Leucine_c2506d7c5a,
+        ex:Lysine_1dfb1e5803,
+        ex:Methionine_9b4b4b72fd,
+        ex:Phenylalanine_8c3f47f769,
+        ex:Protein_4893a0ade3,
+        ex:Threonine_202a908873,
+        ex:Tryptophan_9e57be23cb,
+        ex:Valine_aaa0d10e4d,
+        ex:Weight_2bf2e9757f .
+
+ex:Lima_beans_immature_seeds_canned_regular_pack_solids_and_liquids a ex:Food ;
+    ex:hasName "Lima_beans_immature_seeds_canned_regular_pack_solids_and_liquids"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_1f8d9bd887,
+        ex:Histidine_1ce1d31115,
+        ex:Isoleucine_1d7f533789,
+        ex:Leucine_9c8a32a6c3,
+        ex:Lysine_73af9ff15c,
+        ex:Methionine_4a898f0c70,
+        ex:Phenylalanine_7f836c01e4,
+        ex:Protein_63fe37c5ca,
+        ex:Threonine_e30cf01676,
+        ex:Tryptophan_e1ee74cfb0,
+        ex:Valine_82b3d198ae,
+        ex:Weight_2cd24433ec .
+
+ex:Liver_cheese_pork a ex:Food ;
+    ex:hasName "Liver_cheese_pork"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_447d876078,
+        ex:Histidine_0f97cfc651,
+        ex:Isoleucine_c0b5117332,
+        ex:Leucine_857109d9a1,
+        ex:Lysine_1cfcd2c4e0,
+        ex:Methionine_2ca22aa552,
+        ex:Phenylalanine_8fcae1b661,
+        ex:Protein_3e2beff2b9,
+        ex:Threonine_4989b1805a,
+        ex:Tryptophan_d23894a36d,
+        ex:Valine_d653624740,
+        ex:Weight_5649f55944 .
+
+ex:Macaroni_and_cheese_dinner_with_dry_sauce_mix_boxed_uncooked a ex:Food ;
+    ex:hasName "Macaroni_and_cheese_dinner_with_dry_sauce_mix_boxed_uncooked"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_105b68a5ec,
+        ex:Histidine_a159d9c28c,
+        ex:Isoleucine_87f890a510,
+        ex:Leucine_b03f74ac5b,
+        ex:Lysine_47d9fbc386,
+        ex:Methionine_930df42567,
+        ex:Phenylalanine_ca11534780,
+        ex:Protein_39fd7287ab,
+        ex:Threonine_32d3f97cf6,
+        ex:Tryptophan_f0c9427d51,
+        ex:Valine_3d1bb46d71,
+        ex:Weight_630f1323a2 .
+
+ex:Milk_dry_nonfat_calcium_reduced a ex:Food ;
+    ex:hasName "Milk_dry_nonfat_calcium_reduced"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_d35e229e03,
+        ex:Histidine_2ca0caa70e,
+        ex:Isoleucine_892c33849b,
+        ex:Leucine_601e0bd188,
+        ex:Lysine_714b9eeaad,
+        ex:Methionine_75afc2c4ff,
+        ex:Phenylalanine_9a268d5568,
+        ex:Protein_6875f3d55b,
+        ex:Threonine_a43f8e0758,
+        ex:Tryptophan_85cf308af2,
+        ex:Valine_20654acf3f,
+        ex:Weight_d3ab64b66b .
+
+ex:Nectarines a ex:Food ;
+    ex:hasName "Nectarines"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_f5b6143124,
+        ex:Histidine_c853eacf27,
+        ex:Isoleucine_9cd7f92ad8,
+        ex:Leucine_e7de98cfd3,
+        ex:Lysine_c03289b308,
+        ex:Methionine_ac34bb68d1,
+        ex:Phenylalanine_3ac4dec981,
+        ex:Protein_7697581466,
+        ex:Threonine_d9067982ff,
+        ex:Tryptophan_f75002e907,
+        ex:Valine_83d26117f4,
+        ex:Weight_0e54a26479 .
+
+ex:Noodles_egg_dry_unenriched a ex:Food ;
+    ex:hasName "Noodles_egg_dry_unenriched"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_9a4e83c375,
+        ex:Histidine_95ce0e5349,
+        ex:Isoleucine_05c58374cc,
+        ex:Leucine_1d8082dc3e,
+        ex:Lysine_55efea7939,
+        ex:Methionine_51298584d6,
+        ex:Phenylalanine_557abd1ffa,
+        ex:Protein_cbef2b433f,
+        ex:Threonine_7cfc5863c4,
+        ex:Tryptophan_ecd3403a52,
+        ex:Valine_e990ec731b,
+        ex:Weight_93535f0b2f .
+
+ex:Nuts_pecans_dry_roasted_with_salt_added a ex:Food ;
+    ex:hasName "Nuts_pecans_dry_roasted_with_salt_added"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_8b7c86ac35,
+        ex:Histidine_43763034b8,
+        ex:Isoleucine_eb2e1a4e9f,
+        ex:Leucine_dd5f3c14fc,
+        ex:Lysine_c2f083eb9f,
+        ex:Methionine_6493f7856d,
+        ex:Phenylalanine_7406f24c68,
+        ex:Protein_d28fbeec76,
+        ex:Threonine_40c4df3bbd,
+        ex:Tryptophan_e9253996d6,
+        ex:Valine_ecca663868,
+        ex:Weight_26cb41b339 .
+
+ex:Pancakes_buttermilk_prepared_from_recipe a ex:Food ;
+    ex:hasName "Pancakes_buttermilk_prepared_from_recipe"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_ae90c7e644,
+        ex:Histidine_132ad63aae,
+        ex:Isoleucine_5b14857251,
+        ex:Leucine_d512a782f2,
+        ex:Lysine_07af60a0c8,
+        ex:Methionine_a20247ba69,
+        ex:Phenylalanine_49621e6c59,
+        ex:Protein_75bb4ffc0d,
+        ex:Threonine_c423897dd9,
+        ex:Tryptophan_7de00e05fe,
+        ex:Valine_f450957249,
+        ex:Weight_ce7ce24f14 .
+
+ex:Pasta_dry_unenriched a ex:Food ;
+    ex:hasName "Pasta_dry_unenriched"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_f0c8cf548c,
+        ex:Histidine_d9efe104c0,
+        ex:Isoleucine_3b79b627de,
+        ex:Leucine_03fa69a514,
+        ex:Lysine_5fa487dd62,
+        ex:Methionine_2bbe2287e8,
+        ex:Phenylalanine_edda079a37,
+        ex:Protein_6ccbca56c0,
+        ex:Threonine_89eb8a5690,
+        ex:Tryptophan_2b5563008f,
+        ex:Valine_d82a741540,
+        ex:Weight_8e4021f2d4 .
+
+ex:Peanut_Butter__Chunk_Style_ a ex:Food ;
+    ex:hasName "Peanut_Butter__Chunk_Style_"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_48381cf079,
+        ex:Histidine_ff4a3c39fc,
+        ex:Isoleucine_69a0930ab3,
+        ex:Leucine_5c7a362088,
+        ex:Lysine_2d7e6ef769,
+        ex:Methionine_ebb80b66d9,
+        ex:Phenylalanine_87de21728e,
+        ex:Protein_40d7b53740,
+        ex:Threonine_b6c0664889,
+        ex:Tryptophan_f176dc9189,
+        ex:Valine_98b36d1f3e,
+        ex:Weight_a6a83fcf0f .
+
+ex:Pork_ground__minced__96__lean___4__fat_cooked_pan-broiled a ex:Food ;
+    ex:hasName "Pork_ground__minced__96__lean___4__fat_cooked_pan-broiled"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_1a1d068de2,
+        ex:Histidine_2b484942eb,
+        ex:Isoleucine_aea717dbab,
+        ex:Leucine_0b141bcfcf,
+        ex:Lysine_c2f26fa477,
+        ex:Methionine_b68d4f47a0,
+        ex:Phenylalanine_72a10c2ff3,
+        ex:Protein_fbf1cf6df3,
+        ex:Threonine_1072fe7bdb,
+        ex:Tryptophan_68fe5f0afb,
+        ex:Valine_537ef3d0a9,
+        ex:Weight_b9f553083c .
+
+ex:Tofu_dried-frozen__koyadofu_ a ex:Food ;
+    ex:hasName "Tofu_dried-frozen__koyadofu_"^^xsd:string ;
+    ex:hasNutrient ex:Calories_\(kcal\)_7de990090f,
+        ex:Histidine_e2505456e3,
+        ex:Isoleucine_5921bcc582,
+        ex:Leucine_28bdaa0a2c,
+        ex:Lysine_f3e06cd8fa,
+        ex:Methionine_e6b502a1c5,
+        ex:Phenylalanine_f84e18e4e0,
+        ex:Protein_1728ba6aa2,
+        ex:Threonine_a8c80d2573,
+        ex:Tryptophan_a49ee8de21,
+        ex:Valine_c826cc5aac,
+        ex:Weight_cd71e1d6ff .
+
+ex:hasDailyValue a owl:DatatypeProperty ;
+    rdfs:range xsd:float .
+
+ex:hasName a owl:DatatypeProperty ;
+    rdfs:range xsd:string .
+
+ex:hasUnite a owl:DatatypeProperty ;
+    rdfs:range xsd:string .
+
+ex:hasWeight a owl:DatatypeProperty ;
+    rdfs:range xsd:float .
+
+ex:unite rdfs:subClassOf <http://example.org/22:4>,
+        ex:AddedSugar,
+        ex:Alanine,
+        ex:Alcohol,
+        ex:ArachidicAcid,
+        ex:ArachidonicAcid,
+        ex:Arginine,
+        ex:Ash,
+        ex:Asparticacid,
+        ex:BehenicAcid,
+        ex:Betaine,
+        ex:Betasitosterol,
+        ex:Biotin,
+        ex:Butyric,
+        ex:Caffeine,
+        ex:Calcium,
+        ex:Calories,
+        ex:Campesterol,
+        ex:CapricAcid,
+        ex:Caproic,
+        ex:CaprylicAcid,
+        ex:Carbohydrate,
+        ex:Carotenealpha,
+        ex:Carotenebeta,
+        ex:Chloride,
+        ex:Cholesterol,
+        ex:Choline,
+        ex:Chromium,
+        ex:ConjugatedLinoleicAcid,
+        ex:Copper,
+        ex:Cryptoxanthinbeta,
+        ex:Cystine,
+        ex:DihomogammalinolenicAcid,
+        ex:DocosahexaenoicAcid,
+        ex:DocosapentaenoicAcid,
+        ex:DocosenoicAcid,
+        ex:EicosapentaenoicAcid,
+        ex:EicosatetraenoicAcid,
+        ex:EicosatrienoicAcid,
+        ex:Fat,
+        ex:Fiber,
+        ex:Fluoride,
+        ex:Folate,
+        ex:FolateDFE,
+        ex:Folicacid,
+        ex:Foodfolate,
+        ex:Fructose,
+        ex:GadoleicAcid,
+        ex:Galactose,
+        ex:Glucose,
+        ex:Glutamicacid,
+        ex:Glycine,
+        ex:HeneicosapentaenoicAcid,
+        ex:HeptadecenoicAcid,
+        ex:Histidine,
+        ex:Hydroxyproline,
+        ex:InsolubleFiber,
+        ex:Iodine,
+        ex:Iron,
+        ex:Isoleucine,
+        ex:Lactose,
+        ex:LauricAcid,
+        ex:Leucine,
+        ex:LignocericAcid,
+        ex:LutZeaxanthin,
+        ex:Lycopene,
+        ex:Lysine,
+        ex:Magnesium,
+        ex:Maltose,
+        ex:Manganese,
+        ex:MargaricAcid,
+        ex:Menaquinone4,
+        ex:Methionine,
+        ex:Molybdenum,
+        ex:MyristicAcid,
+        ex:MyristoleicAcid,
+        ex:NetCarbs,
+        ex:NiacinB3,
+        ex:OctadecadienoicAcid,
+        ex:OctadecatrienoicAcid,
+        ex:OleicAcid,
+        ex:Omega3s,
+        ex:Omega3toOmega6Ratio,
+        ex:Omega6s,
+        ex:Omega6toOmega3Ratio,
+        ex:PRALscore,
+        ex:PalmiticAcid,
+        ex:PalmitoleicAcid,
+        ex:ParinaricAcid,
+        ex:PentadecanoicAcid,
+        ex:PentadecenoicAcid,
+        ex:Phenylalanine,
+        ex:Phosphorus,
+        ex:Potassium,
+        ex:Proline,
+        ex:Protein,
+        ex:Retinol,
+        ex:RiboflavinB2,
+        ex:SaturatedFats,
+        ex:Selenium,
+        ex:Serine,
+        ex:Sodium,
+        ex:SolubleFiber,
+        ex:StearicAcid,
+        ex:Stigmasterol,
+        ex:Strarch,
+        ex:Sucrose,
+        ex:SugarAlcohols,
+        ex:Sugars,
+        ex:Theobromine,
+        ex:ThiaminB1,
+        ex:Threonine,
+        ex:TotalMonounsaturated,
+        ex:TotalPhytosterols,
+        ex:TotalPolyunsaturated,
+        ex:TransFattyAcids,
+        ex:TransMonoenoicFats,
+        ex:TransPolyenoicFats,
+        ex:TridecanoicAcid,
+        ex:Tryptophan,
+        ex:Tyrosine,
+        ex:Valine,
+        ex:VitaminA,
+        ex:VitaminAIU,
+        ex:VitaminB12,
+        ex:VitaminB5,
+        ex:VitaminB6,
+        ex:VitaminC,
+        ex:VitaminD,
+        ex:VitaminD2,
+        ex:VitaminD3,
+        ex:VitaminDIU,
+        ex:VitaminE,
+        ex:VitaminK,
+        ex:VitaminK1,
+        ex:Water,
+        ex:Weight,
+        ex:Zinc,
+        ex:alphaLinolenicAcid,
+        ex:cisDocosenoicAcid,
+        ex:cisOleicAcid,
+        ex:cisPalmitoleicAcid,
+        ex:cisTetracosenoicAcid,
+        ex:cisVaccenicAcid,
+        ex:ciscisn6EicosadienoicAcid,
+        ex:gammaLinolenicAcid,
+        ex:iOctadecadienoicAcid,
+        ex:n3EicosatrienoicAcid,
+        ex:otherSugar,
+        ex:transDocosenoicAcid,
+        ex:transOctadecadienoicAcid,
+        ex:transOleicAcid,
+        ex:transPalmitoleicAcid,
+        ex:transtransOctadecadienoicAcid,
+        ex:undifferentiatedOctadecatrienoic .
+
+ex:Calories_\(kcal\)_006838b743 a ex:Weight ;
+    ex:hasDailyValue "247.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "4947.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_105b68a5ec a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "379.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_1a1d068de2 a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "185.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_1f8d9bd887 a ex:Weight ;
+    ex:hasDailyValue "16.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "322.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_381545cca7 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "168.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_447d876078 a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "116.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_48381cf079 a ex:Weight ;
+    ex:hasDailyValue "76.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "1520.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_573d4d9483 a ex:Weight ;
+    ex:hasDailyValue "4.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "82.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_5cc8dfa318 a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "95.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_68f3660519 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "21.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_6bc91cd46e a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "222.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_7de990090f a ex:Weight ;
+    ex:hasDailyValue "24.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "477.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_8b7c86ac35 a ex:Weight ;
+    ex:hasDailyValue "36.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "710.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_8f908c7384 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "30.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_91e8d9798c a ex:Weight ;
+    ex:hasDailyValue "51.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "1016.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_9a4e83c375 a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "384.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_ae90c7e644 a ex:Weight ;
+    ex:hasDailyValue "4.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "86.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_b1d75b6da3 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "409.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_b28e965f12 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "452.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_c7e0f7a81c a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "126.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_d35e229e03 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "400.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_d4302516e2 a ex:Weight ;
+    ex:hasDailyValue "3.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "54.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_db411cd653 a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "99.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_db696ce21d a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "420.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_dc58486cb7 a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "94.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_e4df8157d2 a ex:Weight ;
+    ex:hasDailyValue "16.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "311.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_e78122e7fe a ex:Weight ;
+    ex:hasDailyValue "7.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "149.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_ed11ded390 a ex:Weight ;
+    ex:hasDailyValue "4.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "85.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_f0c8cf548c a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "211.0"^^xsd:float .
+
+ex:Calories_\(kcal\)_f5b6143124 a ex:Weight ;
+    ex:hasDailyValue "3.0"^^xsd:float ;
+    ex:hasUnit ""^^xsd:string ;
+    ex:hasWeight "57.0"^^xsd:float .
+
+ex:Histidine_023d7e885e a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "17.0"^^xsd:float .
+
+ex:Histidine_0f97cfc651 a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "149.0"^^xsd:float .
+
+ex:Histidine_132ad63aae a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "62.0"^^xsd:float .
+
+ex:Histidine_19ef996898 a ex:Weight ;
+    ex:hasDailyValue "36.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "252.0"^^xsd:float .
+
+ex:Histidine_1b736965e5 a ex:Weight ;
+    ex:hasDailyValue "33.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "230.0"^^xsd:float .
+
+ex:Histidine_1ce1d31115 a ex:Weight ;
+    ex:hasDailyValue "90.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "627.0"^^xsd:float .
+
+ex:Histidine_1fdc805f15 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "159.0"^^xsd:float .
+
+ex:Histidine_2b484942eb a ex:Weight ;
+    ex:hasDailyValue "179.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1252.0"^^xsd:float .
+
+ex:Histidine_2ca0caa70e a ex:Weight ;
+    ex:hasDailyValue "155.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1088.0"^^xsd:float .
+
+ex:Histidine_43763034b8 a ex:Weight ;
+    ex:hasDailyValue "39.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "271.0"^^xsd:float .
+
+ex:Histidine_59ca4b488a a ex:Weight ;
+    ex:hasDailyValue "148.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1036.0"^^xsd:float .
+
+ex:Histidine_61a01aadcb a ex:Weight ;
+    ex:hasDailyValue "119.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "832.0"^^xsd:float .
+
+ex:Histidine_7673787006 a ex:Weight ;
+    ex:hasDailyValue "3937.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "27560.0"^^xsd:float .
+
+ex:Histidine_80381bab59 a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "44.0"^^xsd:float .
+
+ex:Histidine_8c2569e713 a ex:Weight ;
+    ex:hasDailyValue "48.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "334.0"^^xsd:float .
+
+ex:Histidine_95ce0e5349 a ex:Weight ;
+    ex:hasDailyValue "54.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "378.0"^^xsd:float .
+
+ex:Histidine_9c17a950f6 a ex:Weight ;
+    ex:hasDailyValue "718.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "5026.0"^^xsd:float .
+
+ex:Histidine_a159d9c28c a ex:Weight ;
+    ex:hasDailyValue "47.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "327.0"^^xsd:float .
+
+ex:Histidine_aed7bbefd9 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "99.0"^^xsd:float .
+
+ex:Histidine_b4ca259405 a ex:Weight ;
+    ex:hasDailyValue "15.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "102.0"^^xsd:float .
+
+ex:Histidine_c23178867a a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "60.0"^^xsd:float .
+
+ex:Histidine_c853eacf27 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "10.0"^^xsd:float .
+
+ex:Histidine_d01a1eed99 a ex:Weight ;
+    ex:hasDailyValue "154.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1079.0"^^xsd:float .
+
+ex:Histidine_d9efe104c0 a ex:Weight ;
+    ex:hasDailyValue "24.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "170.0"^^xsd:float .
+
+ex:Histidine_da09ca3e5e a ex:Weight ;
+    ex:hasDailyValue "209.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1463.0"^^xsd:float .
+
+ex:Histidine_df1e5bea64 a ex:Weight ;
+    ex:hasDailyValue "16.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "109.0"^^xsd:float .
+
+ex:Histidine_e2505456e3 a ex:Weight ;
+    ex:hasDailyValue "199.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1394.0"^^xsd:float .
+
+ex:Histidine_e9a4dc78fe a ex:Weight ;
+    ex:hasDailyValue "65.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "457.0"^^xsd:float .
+
+ex:Histidine_f293c96801 a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "79.0"^^xsd:float .
+
+ex:Histidine_ff4a3c39fc a ex:Weight ;
+    ex:hasDailyValue "203.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1419.0"^^xsd:float .
+
+ex:Isoleucine_04d0d9cab0 a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "122.0"^^xsd:float .
+
+ex:Isoleucine_05b5377f78 a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "22.0"^^xsd:float .
+
+ex:Isoleucine_05c58374cc a ex:Weight ;
+    ex:hasDailyValue "42.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "593.0"^^xsd:float .
+
+ex:Isoleucine_1d7f533789 a ex:Weight ;
+    ex:hasDailyValue "85.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1185.0"^^xsd:float .
+
+ex:Isoleucine_2f1abfac70 a ex:Weight ;
+    ex:hasDailyValue "22.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "302.0"^^xsd:float .
+
+ex:Isoleucine_3b79b627de a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "291.0"^^xsd:float .
+
+ex:Isoleucine_3d55214146 a ex:Weight ;
+    ex:hasDailyValue "107.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1495.0"^^xsd:float .
+
+ex:Isoleucine_3f5f38f573 a ex:Weight ;
+    ex:hasDailyValue "203.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2845.0"^^xsd:float .
+
+ex:Isoleucine_467e461962 a ex:Weight ;
+    ex:hasDailyValue "2406.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "33682.0"^^xsd:float .
+
+ex:Isoleucine_5921bcc582 a ex:Weight ;
+    ex:hasDailyValue "170.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2376.0"^^xsd:float .
+
+ex:Isoleucine_5add41e6bf a ex:Weight ;
+    ex:hasDailyValue "57.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "797.0"^^xsd:float .
+
+ex:Isoleucine_5b14857251 a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "120.0"^^xsd:float .
+
+ex:Isoleucine_5f041b9abd a ex:Weight ;
+    ex:hasDailyValue "25.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "350.0"^^xsd:float .
+
+ex:Isoleucine_652fc3e5e8 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "192.0"^^xsd:float .
+
+ex:Isoleucine_69a0930ab3 a ex:Weight ;
+    ex:hasDailyValue "112.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1569.0"^^xsd:float .
+
+ex:Isoleucine_775b8e381f a ex:Weight ;
+    ex:hasDailyValue "512.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "7162.0"^^xsd:float .
+
+ex:Isoleucine_87f890a510 a ex:Weight ;
+    ex:hasDailyValue "42.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "581.0"^^xsd:float .
+
+ex:Isoleucine_892c33849b a ex:Weight ;
+    ex:hasDailyValue "173.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2427.0"^^xsd:float .
+
+ex:Isoleucine_9536e0ea2d a ex:Weight ;
+    ex:hasDailyValue "25.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "345.0"^^xsd:float .
+
+ex:Isoleucine_9cd7f92ad8 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "12.0"^^xsd:float .
+
+ex:Isoleucine_aea717dbab a ex:Weight ;
+    ex:hasDailyValue "103.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1448.0"^^xsd:float .
+
+ex:Isoleucine_b8faafe1b5 a ex:Weight ;
+    ex:hasDailyValue "90.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1263.0"^^xsd:float .
+
+ex:Isoleucine_c0b5117332 a ex:Weight ;
+    ex:hasDailyValue "17.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "240.0"^^xsd:float .
+
+ex:Isoleucine_c7ad90ad73 a ex:Weight ;
+    ex:hasDailyValue "29.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "400.0"^^xsd:float .
+
+ex:Isoleucine_cc194327d6 a ex:Weight ;
+    ex:hasDailyValue "121.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1689.0"^^xsd:float .
+
+ex:Isoleucine_d0051eda62 a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "158.0"^^xsd:float .
+
+ex:Isoleucine_dc582dd003 a ex:Weight ;
+    ex:hasDailyValue "51.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "716.0"^^xsd:float .
+
+ex:Isoleucine_decb841cb0 a ex:Weight ;
+    ex:hasDailyValue "15.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "215.0"^^xsd:float .
+
+ex:Isoleucine_ea2341e270 a ex:Weight ;
+    ex:hasDailyValue "7.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "102.0"^^xsd:float .
+
+ex:Isoleucine_eb2e1a4e9f a ex:Weight ;
+    ex:hasDailyValue "25.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "348.0"^^xsd:float .
+
+ex:Leucine_0140f233ae a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "37.0"^^xsd:float .
+
+ex:Leucine_03fa69a514 a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "563.0"^^xsd:float .
+
+ex:Leucine_08104408af a ex:Weight ;
+    ex:hasDailyValue "48.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1306.0"^^xsd:float .
+
+ex:Leucine_0b141bcfcf a ex:Weight ;
+    ex:hasDailyValue "93.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2528.0"^^xsd:float .
+
+ex:Leucine_1d8082dc3e a ex:Weight ;
+    ex:hasDailyValue "42.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1139.0"^^xsd:float .
+
+ex:Leucine_28bdaa0a2c a ex:Weight ;
+    ex:hasDailyValue "133.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3644.0"^^xsd:float .
+
+ex:Leucine_3b0f24914f a ex:Weight ;
+    ex:hasDailyValue "46.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1263.0"^^xsd:float .
+
+ex:Leucine_424ecf2566 a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "337.0"^^xsd:float .
+
+ex:Leucine_4b587a48ba a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "314.0"^^xsd:float .
+
+ex:Leucine_4c7d98f370 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "620.0"^^xsd:float .
+
+ex:Leucine_4e3abe6477 a ex:Weight ;
+    ex:hasDailyValue "109.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2978.0"^^xsd:float .
+
+ex:Leucine_5c7a362088 a ex:Weight ;
+    ex:hasDailyValue "144.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3935.0"^^xsd:float .
+
+ex:Leucine_601e0bd188 a ex:Weight ;
+    ex:hasDailyValue "144.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3930.0"^^xsd:float .
+
+ex:Leucine_64b420d830 a ex:Weight ;
+    ex:hasDailyValue "2300.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "62778.0"^^xsd:float .
+
+ex:Leucine_7dad450f75 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "557.0"^^xsd:float .
+
+ex:Leucine_857109d9a1 a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "506.0"^^xsd:float .
+
+ex:Leucine_99bfca271e a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "208.0"^^xsd:float .
+
+ex:Leucine_9c8a32a6c3 a ex:Weight ;
+    ex:hasDailyValue "53.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1448.0"^^xsd:float .
+
+ex:Leucine_9eb67dbeed a ex:Weight ;
+    ex:hasDailyValue "459.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "12528.0"^^xsd:float .
+
+ex:Leucine_a323d9ad43 a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "284.0"^^xsd:float .
+
+ex:Leucine_acd72cd4e5 a ex:Weight ;
+    ex:hasDailyValue "105.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2877.0"^^xsd:float .
+
+ex:Leucine_b03f74ac5b a ex:Weight ;
+    ex:hasDailyValue "40.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1082.0"^^xsd:float .
+
+ex:Leucine_bf5f8f6599 a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "167.0"^^xsd:float .
+
+ex:Leucine_bfb6b89f20 a ex:Weight ;
+    ex:hasDailyValue "26.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "723.0"^^xsd:float .
+
+ex:Leucine_c2506d7c5a a ex:Weight ;
+    ex:hasDailyValue "13.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "353.0"^^xsd:float .
+
+ex:Leucine_c6bdc26a1c a ex:Weight ;
+    ex:hasDailyValue "171.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "4678.0"^^xsd:float .
+
+ex:Leucine_d512a782f2 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "207.0"^^xsd:float .
+
+ex:Leucine_dd5f3c14fc a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "619.0"^^xsd:float .
+
+ex:Leucine_e7de98cfd3 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "18.0"^^xsd:float .
+
+ex:Leucine_e99bfaff37 a ex:Weight ;
+    ex:hasDailyValue "96.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2631.0"^^xsd:float .
+
+ex:Lysine_01a93687af a ex:Weight ;
+    ex:hasDailyValue "68.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1431.0"^^xsd:float .
+
+ex:Lysine_07af60a0c8 a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "133.0"^^xsd:float .
+
+ex:Lysine_0b4dfcdc37 a ex:Weight ;
+    ex:hasDailyValue "120.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2514.0"^^xsd:float .
+
+ex:Lysine_108fe9f9f3 a ex:Weight ;
+    ex:hasDailyValue "7.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "153.0"^^xsd:float .
+
+ex:Lysine_1b601e9c5e a ex:Weight ;
+    ex:hasDailyValue "634.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "13309.0"^^xsd:float .
+
+ex:Lysine_1cfcd2c4e0 a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "448.0"^^xsd:float .
+
+ex:Lysine_1dfb1e5803 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "296.0"^^xsd:float .
+
+ex:Lysine_2d7e6ef769 a ex:Weight ;
+    ex:hasDailyValue "82.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1731.0"^^xsd:float .
+
+ex:Lysine_423cd78cd2 a ex:Weight ;
+    ex:hasDailyValue "3354.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "70436.0"^^xsd:float .
+
+ex:Lysine_47d9fbc386 a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "405.0"^^xsd:float .
+
+ex:Lysine_4cca0bdd24 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "29.0"^^xsd:float .
+
+ex:Lysine_55efea7939 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "429.0"^^xsd:float .
+
+ex:Lysine_5c56a091b9 a ex:Weight ;
+    ex:hasDailyValue "104.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2191.0"^^xsd:float .
+
+ex:Lysine_5fa487dd62 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "170.0"^^xsd:float .
+
+ex:Lysine_6c86f7867d a ex:Weight ;
+    ex:hasDailyValue "226.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "4739.0"^^xsd:float .
+
+ex:Lysine_714b9eeaad a ex:Weight ;
+    ex:hasDailyValue "152.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3182.0"^^xsd:float .
+
+ex:Lysine_73af9ff15c a ex:Weight ;
+    ex:hasDailyValue "58.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1217.0"^^xsd:float .
+
+ex:Lysine_97b9a939a1 a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "109.0"^^xsd:float .
+
+ex:Lysine_9e169ac503 a ex:Weight ;
+    ex:hasDailyValue "28.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "580.0"^^xsd:float .
+
+ex:Lysine_a80a085ad6 a ex:Weight ;
+    ex:hasDailyValue "22.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "468.0"^^xsd:float .
+
+ex:Lysine_bdc16015a6 a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "102.0"^^xsd:float .
+
+ex:Lysine_c03289b308 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "21.0"^^xsd:float .
+
+ex:Lysine_c1d0dc0a13 a ex:Weight ;
+    ex:hasDailyValue "68.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1427.0"^^xsd:float .
+
+ex:Lysine_c2f083eb9f a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "297.0"^^xsd:float .
+
+ex:Lysine_c2f26fa477 a ex:Weight ;
+    ex:hasDailyValue "130.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2726.0"^^xsd:float .
+
+ex:Lysine_caefe9699a a ex:Weight ;
+    ex:hasDailyValue "160.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3366.0"^^xsd:float .
+
+ex:Lysine_d9de0c6718 a ex:Weight ;
+    ex:hasDailyValue "30.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "622.0"^^xsd:float .
+
+ex:Lysine_e103bb7aa9 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "167.0"^^xsd:float .
+
+ex:Lysine_f3e06cd8fa a ex:Weight ;
+    ex:hasDailyValue "150.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3157.0"^^xsd:float .
+
+ex:Lysine_f41d681c1f a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "302.0"^^xsd:float .
+
+ex:Methionine_2bbe2287e8 a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "84.0"^^xsd:float .
+
+ex:Methionine_2ca22aa552 a ex:Weight ;
+    ex:hasDailyValue "18.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "130.0"^^xsd:float .
+
+ex:Methionine_339434bca6 a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "81.0"^^xsd:float .
+
+ex:Methionine_49745fb6ba a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "75.0"^^xsd:float .
+
+ex:Methionine_4a898f0c70 a ex:Weight ;
+    ex:hasDailyValue "25.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "182.0"^^xsd:float .
+
+ex:Methionine_51298584d6 a ex:Weight ;
+    ex:hasDailyValue "37.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "268.0"^^xsd:float .
+
+ex:Methionine_5620e31a0b a ex:Weight ;
+    ex:hasDailyValue "206.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1497.0"^^xsd:float .
+
+ex:Methionine_582f4878e4 a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "82.0"^^xsd:float .
+
+ex:Methionine_622b7cbd1e a ex:Weight ;
+    ex:hasDailyValue "4.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "31.0"^^xsd:float .
+
+ex:Methionine_6493f7856d a ex:Weight ;
+    ex:hasDailyValue "26.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "189.0"^^xsd:float .
+
+ex:Methionine_6bf10fd3c4 a ex:Weight ;
+    ex:hasDailyValue "22.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "160.0"^^xsd:float .
+
+ex:Methionine_7249b10b79 a ex:Weight ;
+    ex:hasDailyValue "2650.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "19292.0"^^xsd:float .
+
+ex:Methionine_75afc2c4ff a ex:Weight ;
+    ex:hasDailyValue "138.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1006.0"^^xsd:float .
+
+ex:Methionine_8b119a526f a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "136.0"^^xsd:float .
+
+ex:Methionine_930df42567 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "167.0"^^xsd:float .
+
+ex:Methionine_974a88d50d a ex:Weight ;
+    ex:hasDailyValue "563.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "4101.0"^^xsd:float .
+
+ex:Methionine_9952e0c58c a ex:Weight ;
+    ex:hasDailyValue "105.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "762.0"^^xsd:float .
+
+ex:Methionine_9b4b4b72fd a ex:Weight ;
+    ex:hasDailyValue "13.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "91.0"^^xsd:float .
+
+ex:Methionine_a20247ba69 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "59.0"^^xsd:float .
+
+ex:Methionine_a48104861c a ex:Weight ;
+    ex:hasDailyValue "112.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "813.0"^^xsd:float .
+
+ex:Methionine_ac34bb68d1 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "8.0"^^xsd:float .
+
+ex:Methionine_ad8bc2210e a ex:Weight ;
+    ex:hasDailyValue "149.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1085.0"^^xsd:float .
+
+ex:Methionine_b68d4f47a0 a ex:Weight ;
+    ex:hasDailyValue "116.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "846.0"^^xsd:float .
+
+ex:Methionine_b9588fbf95 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "58.0"^^xsd:float .
+
+ex:Methionine_d754718a8f a ex:Weight ;
+    ex:hasDailyValue "64.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "463.0"^^xsd:float .
+
+ex:Methionine_e6b502a1c5 a ex:Weight ;
+    ex:hasDailyValue "84.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "613.0"^^xsd:float .
+
+ex:Methionine_e7215413d4 a ex:Weight ;
+    ex:hasDailyValue "27.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "195.0"^^xsd:float .
+
+ex:Methionine_ebb80b66d9 a ex:Weight ;
+    ex:hasDailyValue "93.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "676.0"^^xsd:float .
+
+ex:Methionine_fc706b0dfd a ex:Weight ;
+    ex:hasDailyValue "63.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "460.0"^^xsd:float .
+
+ex:Methionine_feda721e20 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "5.0"^^xsd:float .
+
+ex:Phenylalanine_06900be394 a ex:Weight ;
+    ex:hasDailyValue "26.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "230.0"^^xsd:float .
+
+ex:Phenylalanine_0f7196b19c a ex:Weight ;
+    ex:hasDailyValue "265.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2321.0"^^xsd:float .
+
+ex:Phenylalanine_1526f8e7a9 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "198.0"^^xsd:float .
+
+ex:Phenylalanine_3090df55e0 a ex:Weight ;
+    ex:hasDailyValue "69.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "607.0"^^xsd:float .
+
+ex:Phenylalanine_3ac4dec981 a ex:Weight ;
+    ex:hasDailyValue "3.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "27.0"^^xsd:float .
+
+ex:Phenylalanine_49621e6c59 a ex:Weight ;
+    ex:hasDailyValue "15.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "129.0"^^xsd:float .
+
+ex:Phenylalanine_557abd1ffa a ex:Weight ;
+    ex:hasDailyValue "85.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "748.0"^^xsd:float .
+
+ex:Phenylalanine_568b770ae0 a ex:Weight ;
+    ex:hasDailyValue "711.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "6219.0"^^xsd:float .
+
+ex:Phenylalanine_5cb58dd1ec a ex:Weight ;
+    ex:hasDailyValue "27.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "233.0"^^xsd:float .
+
+ex:Phenylalanine_698feb37b2 a ex:Weight ;
+    ex:hasDailyValue "56.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "490.0"^^xsd:float .
+
+ex:Phenylalanine_72a10c2ff3 a ex:Weight ;
+    ex:hasDailyValue "154.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1349.0"^^xsd:float .
+
+ex:Phenylalanine_7406f24c68 a ex:Weight ;
+    ex:hasDailyValue "50.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "441.0"^^xsd:float .
+
+ex:Phenylalanine_7f836c01e4 a ex:Weight ;
+    ex:hasDailyValue "104.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "908.0"^^xsd:float .
+
+ex:Phenylalanine_87de21728e a ex:Weight ;
+    ex:hasDailyValue "349.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "3057.0"^^xsd:float .
+
+ex:Phenylalanine_8c3f47f769 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "176.0"^^xsd:float .
+
+ex:Phenylalanine_8fcae1b661 a ex:Weight ;
+    ex:hasDailyValue "31.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "272.0"^^xsd:float .
+
+ex:Phenylalanine_9a268d5568 a ex:Weight ;
+    ex:hasDailyValue "221.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1937.0"^^xsd:float .
+
+ex:Phenylalanine_a2cdf83d6c a ex:Weight ;
+    ex:hasDailyValue "79.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "694.0"^^xsd:float .
+
+ex:Phenylalanine_a6b8d17d70 a ex:Weight ;
+    ex:hasDailyValue "3.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "22.0"^^xsd:float .
+
+ex:Phenylalanine_c01e733d48 a ex:Weight ;
+    ex:hasDailyValue "185.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1617.0"^^xsd:float .
+
+ex:Phenylalanine_ca11534780 a ex:Weight ;
+    ex:hasDailyValue "79.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "692.0"^^xsd:float .
+
+ex:Phenylalanine_cccd30709b a ex:Weight ;
+    ex:hasDailyValue "139.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1215.0"^^xsd:float .
+
+ex:Phenylalanine_d7b3c48e66 a ex:Weight ;
+    ex:hasDailyValue "13.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "114.0"^^xsd:float .
+
+ex:Phenylalanine_d88462aa2d a ex:Weight ;
+    ex:hasDailyValue "40.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "349.0"^^xsd:float .
+
+ex:Phenylalanine_d99445bb1c a ex:Weight ;
+    ex:hasDailyValue "3289.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "28780.0"^^xsd:float .
+
+ex:Phenylalanine_e7bd161915 a ex:Weight ;
+    ex:hasDailyValue "38.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "330.0"^^xsd:float .
+
+ex:Phenylalanine_ed6cc576f0 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "127.0"^^xsd:float .
+
+ex:Phenylalanine_edda079a37 a ex:Weight ;
+    ex:hasDailyValue "44.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "381.0"^^xsd:float .
+
+ex:Phenylalanine_f42456545f a ex:Weight ;
+    ex:hasDailyValue "163.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1430.0"^^xsd:float .
+
+ex:Phenylalanine_f84e18e4e0 a ex:Weight ;
+    ex:hasDailyValue "267.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2334.0"^^xsd:float .
+
+ex:Protein_0a42b78405 a ex:Weight ;
+    ex:hasDailyValue "73.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "36.7"^^xsd:float .
+
+ex:Protein_0bb3add6bd a ex:Weight ;
+    ex:hasDailyValue "13.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "6.4"^^xsd:float .
+
+ex:Protein_1728ba6aa2 a ex:Weight ;
+    ex:hasDailyValue "105.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "52.5"^^xsd:float .
+
+ex:Protein_3143e78306 a ex:Weight ;
+    ex:hasDailyValue "33.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "16.4"^^xsd:float .
+
+ex:Protein_329ff9db4e a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "2.4"^^xsd:float .
+
+ex:Protein_360c323757 a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "1.2"^^xsd:float .
+
+ex:Protein_377c8b021a a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "4.6"^^xsd:float .
+
+ex:Protein_39bf58805b a ex:Weight ;
+    ex:hasDailyValue "31.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "15.5"^^xsd:float .
+
+ex:Protein_39fd7287ab a ex:Weight ;
+    ex:hasDailyValue "28.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "13.9"^^xsd:float .
+
+ex:Protein_3e2beff2b9 a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "5.8"^^xsd:float .
+
+ex:Protein_40d7b53740 a ex:Weight ;
+    ex:hasDailyValue "124.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "62.1"^^xsd:float .
+
+ex:Protein_43156a4d16 a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "4.9"^^xsd:float .
+
+ex:Protein_4893a0ade3 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "4.1"^^xsd:float .
+
+ex:Protein_63fe37c5ca a ex:Weight ;
+    ex:hasDailyValue "37.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "18.5"^^xsd:float .
+
+ex:Protein_6875f3d55b a ex:Weight ;
+    ex:hasDailyValue "80.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "40.1"^^xsd:float .
+
+ex:Protein_6ccbca56c0 a ex:Weight ;
+    ex:hasDailyValue "15.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "7.4"^^xsd:float .
+
+ex:Protein_75bb4ffc0d a ex:Weight ;
+    ex:hasDailyValue "5.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "2.6"^^xsd:float .
+
+ex:Protein_7697581466 a ex:Weight ;
+    ex:hasDailyValue "3.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "1.4"^^xsd:float .
+
+ex:Protein_8c71811991 a ex:Weight ;
+    ex:hasDailyValue "61.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "30.5"^^xsd:float .
+
+ex:Protein_a0f72e9c3f a ex:Weight ;
+    ex:hasDailyValue "55.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "27.6"^^xsd:float .
+
+ex:Protein_a70e2fc125 a ex:Weight ;
+    ex:hasDailyValue "18.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "9.1"^^xsd:float .
+
+ex:Protein_ab1cccd434 a ex:Weight ;
+    ex:hasDailyValue "4.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "2.1"^^xsd:float .
+
+ex:Protein_b58039012e a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "6.8"^^xsd:float .
+
+ex:Protein_bae12580cc a ex:Weight ;
+    ex:hasDailyValue "1221.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "610.6"^^xsd:float .
+
+ex:Protein_c14ed4d053 a ex:Weight ;
+    ex:hasDailyValue "315.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "157.5"^^xsd:float .
+
+ex:Protein_cbef2b433f a ex:Weight ;
+    ex:hasDailyValue "28.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "14.2"^^xsd:float .
+
+ex:Protein_d28fbeec76 a ex:Weight ;
+    ex:hasDailyValue "19.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "9.5"^^xsd:float .
+
+ex:Protein_dddd813513 a ex:Weight ;
+    ex:hasDailyValue "111.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "55.4"^^xsd:float .
+
+ex:Protein_ef72014167 a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "4.9"^^xsd:float .
+
+ex:Protein_fbf1cf6df3 a ex:Weight ;
+    ex:hasDailyValue "63.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "31.7"^^xsd:float .
+
+ex:Threonine_1072fe7bdb a ex:Weight ;
+    ex:hasDailyValue "128.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1344.0"^^xsd:float .
+
+ex:Threonine_154f51db7a a ex:Weight ;
+    ex:hasDailyValue "63.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "666.0"^^xsd:float .
+
+ex:Threonine_202a908873 a ex:Weight ;
+    ex:hasDailyValue "16.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "169.0"^^xsd:float .
+
+ex:Threonine_32d3f97cf6 a ex:Weight ;
+    ex:hasDailyValue "47.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "492.0"^^xsd:float .
+
+ex:Threonine_40c4df3bbd a ex:Weight ;
+    ex:hasDailyValue "30.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "317.0"^^xsd:float .
+
+ex:Threonine_46ccfb1fca a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "125.0"^^xsd:float .
+
+ex:Threonine_4989b1805a a ex:Weight ;
+    ex:hasDailyValue "24.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "247.0"^^xsd:float .
+
+ex:Threonine_4bbf0c0dd3 a ex:Weight ;
+    ex:hasDailyValue "108.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1139.0"^^xsd:float .
+
+ex:Threonine_5785d40060 a ex:Weight ;
+    ex:hasDailyValue "3238.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "33998.0"^^xsd:float .
+
+ex:Threonine_5e9032bc45 a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "212.0"^^xsd:float .
+
+ex:Threonine_5ef4cbfaa8 a ex:Weight ;
+    ex:hasDailyValue "599.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "6291.0"^^xsd:float .
+
+ex:Threonine_6716bdd5a5 a ex:Weight ;
+    ex:hasDailyValue "34.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "360.0"^^xsd:float .
+
+ex:Threonine_7cfc5863c4 a ex:Weight ;
+    ex:hasDailyValue "41.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "430.0"^^xsd:float .
+
+ex:Threonine_83d1d8995f a ex:Weight ;
+    ex:hasDailyValue "36.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "381.0"^^xsd:float .
+
+ex:Threonine_8584c74b97 a ex:Weight ;
+    ex:hasDailyValue "225.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2366.0"^^xsd:float .
+
+ex:Threonine_89eb8a5690 a ex:Weight ;
+    ex:hasDailyValue "25.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "263.0"^^xsd:float .
+
+ex:Threonine_a43f8e0758 a ex:Weight ;
+    ex:hasDailyValue "173.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1811.0"^^xsd:float .
+
+ex:Threonine_a8c80d2573 a ex:Weight ;
+    ex:hasDailyValue "186.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1956.0"^^xsd:float .
+
+ex:Threonine_a9065653c7 a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "26.0"^^xsd:float .
+
+ex:Threonine_b6c0664889 a ex:Weight ;
+    ex:hasDailyValue "127.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1336.0"^^xsd:float .
+
+ex:Threonine_b6fe2a10f0 a ex:Weight ;
+    ex:hasDailyValue "65.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "681.0"^^xsd:float .
+
+ex:Threonine_bc2e34ad25 a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "106.0"^^xsd:float .
+
+ex:Threonine_c423897dd9 a ex:Weight ;
+    ex:hasDailyValue "9.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "97.0"^^xsd:float .
+
+ex:Threonine_c8738bc65d a ex:Weight ;
+    ex:hasDailyValue "153.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1606.0"^^xsd:float .
+
+ex:Threonine_d3899a7464 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "85.0"^^xsd:float .
+
+ex:Threonine_d9067982ff a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "12.0"^^xsd:float .
+
+ex:Threonine_e30cf01676 a ex:Weight ;
+    ex:hasDailyValue "75.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "785.0"^^xsd:float .
+
+ex:Threonine_effae419c1 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "150.0"^^xsd:float .
+
+ex:Threonine_f49add9fe2 a ex:Weight ;
+    ex:hasDailyValue "96.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1010.0"^^xsd:float .
+
+ex:Threonine_f858b9f12d a ex:Weight ;
+    ex:hasDailyValue "27.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "285.0"^^xsd:float .
+
+ex:Tryptophan_18bcbe7e9e a ex:Weight ;
+    ex:hasDailyValue "31.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "85.0"^^xsd:float .
+
+ex:Tryptophan_2b5563008f a ex:Weight ;
+    ex:hasDailyValue "38.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "105.0"^^xsd:float .
+
+ex:Tryptophan_33bdd6d2c5 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "40.0"^^xsd:float .
+
+ex:Tryptophan_46a4abcdcf a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "63.0"^^xsd:float .
+
+ex:Tryptophan_59eb18940a a ex:Weight ;
+    ex:hasDailyValue "20.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "56.0"^^xsd:float .
+
+ex:Tryptophan_5da29babf1 a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "6.0"^^xsd:float .
+
+ex:Tryptophan_68fe5f0afb a ex:Weight ;
+    ex:hasDailyValue "146.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "409.0"^^xsd:float .
+
+ex:Tryptophan_7a341a287d a ex:Weight ;
+    ex:hasDailyValue "369.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1034.0"^^xsd:float .
+
+ex:Tryptophan_7b4f3b0846 a ex:Weight ;
+    ex:hasDailyValue "147.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "411.0"^^xsd:float .
+
+ex:Tryptophan_7de00e05fe a ex:Weight ;
+    ex:hasDailyValue "11.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "31.0"^^xsd:float .
+
+ex:Tryptophan_804b88c677 a ex:Weight ;
+    ex:hasDailyValue "38.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "107.0"^^xsd:float .
+
+ex:Tryptophan_81b1830451 a ex:Weight ;
+    ex:hasDailyValue "62.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "174.0"^^xsd:float .
+
+ex:Tryptophan_85cf308af2 a ex:Weight ;
+    ex:hasDailyValue "202.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "566.0"^^xsd:float .
+
+ex:Tryptophan_907b89748f a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "32.0"^^xsd:float .
+
+ex:Tryptophan_9be76f52ec a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "27.0"^^xsd:float .
+
+ex:Tryptophan_9e57be23cb a ex:Weight ;
+    ex:hasDailyValue "17.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "48.0"^^xsd:float .
+
+ex:Tryptophan_a49ee8de21 a ex:Weight ;
+    ex:hasDailyValue "267.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "747.0"^^xsd:float .
+
+ex:Tryptophan_a9c39b2127 a ex:Weight ;
+    ex:hasDailyValue "139.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "390.0"^^xsd:float .
+
+ex:Tryptophan_b9ee2add08 a ex:Weight ;
+    ex:hasDailyValue "115.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "321.0"^^xsd:float .
+
+ex:Tryptophan_c6d58d2304 a ex:Weight ;
+    ex:hasDailyValue "2840.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "7952.0"^^xsd:float .
+
+ex:Tryptophan_cdb32dc3ec a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "39.0"^^xsd:float .
+
+ex:Tryptophan_d23894a36d a ex:Weight ;
+    ex:hasDailyValue "28.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "78.0"^^xsd:float .
+
+ex:Tryptophan_d836c15486 a ex:Weight ;
+    ex:hasDailyValue "275.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "770.0"^^xsd:float .
+
+ex:Tryptophan_e1d2fa3757 a ex:Weight ;
+    ex:hasDailyValue "82.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "229.0"^^xsd:float .
+
+ex:Tryptophan_e1ee74cfb0 a ex:Weight ;
+    ex:hasDailyValue "88.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "245.0"^^xsd:float .
+
+ex:Tryptophan_e9253996d6 a ex:Weight ;
+    ex:hasDailyValue "34.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "96.0"^^xsd:float .
+
+ex:Tryptophan_ecd3403a52 a ex:Weight ;
+    ex:hasDailyValue "48.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "133.0"^^xsd:float .
+
+ex:Tryptophan_f0c9427d51 a ex:Weight ;
+    ex:hasDailyValue "79.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "221.0"^^xsd:float .
+
+ex:Tryptophan_f176dc9189 a ex:Weight ;
+    ex:hasDailyValue "210.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "588.0"^^xsd:float .
+
+ex:Tryptophan_f75002e907 a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "6.0"^^xsd:float .
+
+ex:Valine_20654acf3f a ex:Weight ;
+    ex:hasDailyValue "148.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2685.0"^^xsd:float .
+
+ex:Valine_216dc0ade0 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "150.0"^^xsd:float .
+
+ex:Valine_24e01f6b38 a ex:Weight ;
+    ex:hasDailyValue "159.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2897.0"^^xsd:float .
+
+ex:Valine_296a39a10a a ex:Weight ;
+    ex:hasDailyValue "2.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "28.0"^^xsd:float .
+
+ex:Valine_3d1bb46d71 a ex:Weight ;
+    ex:hasDailyValue "35.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "639.0"^^xsd:float .
+
+ex:Valine_537ef3d0a9 a ex:Weight ;
+    ex:hasDailyValue "88.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1594.0"^^xsd:float .
+
+ex:Valine_54bc58fa0c a ex:Weight ;
+    ex:hasDailyValue "44.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "801.0"^^xsd:float .
+
+ex:Valine_815ba6acc9 a ex:Weight ;
+    ex:hasDailyValue "6.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "118.0"^^xsd:float .
+
+ex:Valine_82b3d198ae a ex:Weight ;
+    ex:hasDailyValue "63.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1153.0"^^xsd:float .
+
+ex:Valine_83d26117f4 a ex:Weight ;
+    ex:hasDailyValue "1.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "17.0"^^xsd:float .
+
+ex:Valine_98b36d1f3e a ex:Weight ;
+    ex:hasDailyValue "109.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1992.0"^^xsd:float .
+
+ex:Valine_a04c77990b a ex:Weight ;
+    ex:hasDailyValue "1952.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "35534.0"^^xsd:float .
+
+ex:Valine_a1a75aeb43 a ex:Weight ;
+    ex:hasDailyValue "26.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "474.0"^^xsd:float .
+
+ex:Valine_a90c907561 a ex:Weight ;
+    ex:hasDailyValue "43.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "774.0"^^xsd:float .
+
+ex:Valine_aaa0d10e4d a ex:Weight ;
+    ex:hasDailyValue "13.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "241.0"^^xsd:float .
+
+ex:Valine_aae739e05f a ex:Weight ;
+    ex:hasDailyValue "12.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "221.0"^^xsd:float .
+
+ex:Valine_ae1f2eaddc a ex:Weight ;
+    ex:hasDailyValue "114.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2080.0"^^xsd:float .
+
+ex:Valine_bacec79fc0 a ex:Weight ;
+    ex:hasDailyValue "104.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "1888.0"^^xsd:float .
+
+ex:Valine_c74fb5c62e a ex:Weight ;
+    ex:hasDailyValue "24.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "440.0"^^xsd:float .
+
+ex:Valine_c826cc5aac a ex:Weight ;
+    ex:hasDailyValue "133.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2418.0"^^xsd:float .
+
+ex:Valine_cbb657ac09 a ex:Weight ;
+    ex:hasDailyValue "10.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "184.0"^^xsd:float .
+
+ex:Valine_d1eec4e7a7 a ex:Weight ;
+    ex:hasDailyValue "429.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "7811.0"^^xsd:float .
+
+ex:Valine_d2d6144936 a ex:Weight ;
+    ex:hasDailyValue "21.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "390.0"^^xsd:float .
+
+ex:Valine_d653624740 a ex:Weight ;
+    ex:hasDailyValue "17.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "306.0"^^xsd:float .
+
+ex:Valine_d82a741540 a ex:Weight ;
+    ex:hasDailyValue "18.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "335.0"^^xsd:float .
+
+ex:Valine_e1f1f7b15c a ex:Weight ;
+    ex:hasDailyValue "115.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "2100.0"^^xsd:float .
+
+ex:Valine_e4a6f88d78 a ex:Weight ;
+    ex:hasDailyValue "14.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "252.0"^^xsd:float .
+
+ex:Valine_e990ec731b a ex:Weight ;
+    ex:hasDailyValue "38.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "686.0"^^xsd:float .
+
+ex:Valine_ecca663868 a ex:Weight ;
+    ex:hasDailyValue "23.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "426.0"^^xsd:float .
+
+ex:Valine_f450957249 a ex:Weight ;
+    ex:hasDailyValue "8.0"^^xsd:float ;
+    ex:hasUnit "mg"^^xsd:string ;
+    ex:hasWeight "138.0"^^xsd:float .
+
+ex:Weight_0e54a26479 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "129.0"^^xsd:float .
+
+ex:Weight_1bf0ed63c3 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_26cb41b339 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_2bf2e9757f a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_2cd24433ec a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "454.0"^^xsd:float .
+
+ex:Weight_550c1e841b a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "360.0"^^xsd:float .
+
+ex:Weight_5649f55944 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "38.0"^^xsd:float .
+
+ex:Weight_5c0f21c856 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "85.0"^^xsd:float .
+
+ex:Weight_630f1323a2 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_7d9c4f4be0 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_8998ab376e a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_8e4021f2d4 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "57.0"^^xsd:float .
+
+ex:Weight_93535f0b2f a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_9510e7c095 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_957dd1b22f a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "108.0"^^xsd:float .
+
+ex:Weight_a6a83fcf0f a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "258.0"^^xsd:float .
+
+ex:Weight_b0f8130741 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "454.0"^^xsd:float .
+
+ex:Weight_b9f553083c a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_bdcb3270b4 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "2259.0"^^xsd:float .
+
+ex:Weight_c0189c6161 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "61.0"^^xsd:float .
+
+ex:Weight_cd71e1d6ff a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_ce7ce24f14 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "38.0"^^xsd:float .
+
+ex:Weight_d3ab64b66b a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "113.0"^^xsd:float .
+
+ex:Weight_d81b2eb1b4 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "52.0"^^xsd:float .
+
+ex:Weight_df4d9f6d07 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "193.0"^^xsd:float .
+
+ex:Weight_e6e7cdf85f a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "303.0"^^xsd:float .
+
+ex:Weight_ea726d4de9 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "100.0"^^xsd:float .
+
+ex:Weight_f64a4b59af a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "85.0"^^xsd:float .
+
+ex:Weight_fc834ed644 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "62.0"^^xsd:float .
+
+ex:Weight_fe6a997b84 a ex:Weight ;
+    ex:hasDailyValue "0.0"^^xsd:float ;
+    ex:hasUnit "g"^^xsd:string ;
+    ex:hasWeight "5.0"^^xsd:float .
+
+<http://example.org/22:4> a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:AddedSugar a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Alanine a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:Alcohol a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:AminoAcids a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:ArachidicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:ArachidonicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Arginine a owl:Class ;
+    rdfs:subClassOf ex:ConditionallyEssentialAminoAcid .
+
+ex:Ash a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:Asparticacid a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:BehenicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Betaine a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:Betasitosterol a owl:Class ;
+    rdfs:subClassOf ex:Phytosterols .
+
+ex:Biotin a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Butyric a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Caffeine a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:Calcium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Calories a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15646 .
+
+ex:Campesterol a owl:Class ;
+    rdfs:subClassOf ex:Phytosterols .
+
+ex:CapricAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Caproic a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:CaprylicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Carbohydrate a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15223 .
+
+ex:Carotenealpha a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Carotenebeta a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Chloride a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Cholesterol a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15205 .
+
+ex:Choline a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Chromium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:ConjugatedLinoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:Copper a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Cryptoxanthinbeta a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Cystine a owl:Class ;
+    rdfs:subClassOf ex:ConditionallyEssentialAminoAcid .
+
+ex:DihomogammalinolenicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:DocosahexaenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega3Fat .
+
+ex:DocosapentaenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega3Fat .
+
+ex:DocosenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:EicosapentaenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega3Fat .
+
+ex:EicosatetraenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:EicosatrienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:Fat a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15224 .
+
+ex:Fiber a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15225 .
+
+ex:Fluoride a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Folate a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:FolateDFE a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Folicacid a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Foodfolate a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Fructose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:GadoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:Galactose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Glucose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Glutamicacid a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:Glycine a owl:Class ;
+    rdfs:subClassOf ex:ConditionallyEssentialAminoAcid .
+
+ex:HeneicosapentaenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:HeptadecenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:Histidine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0007798 .
+
+ex:Hydroxyproline a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:InsolubleFiber a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Iodine a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Iron a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Isoleucine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0008647 .
+
+ex:Lactose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:LauricAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Leucine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0009021 .
+
+ex:LignocericAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:LutZeaxanthin a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Lycopene a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Lysine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0009315 .
+
+ex:Magnesium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Maltose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Manganese a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:MargaricAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Menaquinone4 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Methionine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0009774 .
+
+ex:Molybdenum a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:MyristicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:MyristoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:NetCarbs a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C68492 .
+
+ex:NiacinB3 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:OctadecadienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:OctadecatrienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:OleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:Omega3s a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Omega3toOmega6Ratio a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Omega6s a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Omega6toOmega3Ratio a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:PRALscore a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:PalmiticAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:PalmitoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:ParinaricAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:PentadecanoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:PentadecenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:Phenylalanine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0011637 .
+
+ex:Phosphorus a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Potassium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Proline a owl:Class ;
+    rdfs:subClassOf ex:ConditionallyEssentialAminoAcid .
+
+ex:Protein a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C15920 .
+
+ex:Retinol a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:RiboflavinB2 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:SaturatedFats a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C68421 .
+
+ex:Selenium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:Serine a owl:Class ;
+    rdfs:subClassOf ex:NonEssentialAminoAcid .
+
+ex:Sodium a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:SolubleFiber a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:StearicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Stigmasterol a owl:Class ;
+    rdfs:subClassOf ex:Phytosterols .
+
+ex:Strarch a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Sucrose a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:SugarAlcohols a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:Sugars a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C71939 .
+
+ex:Theobromine a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:ThiaminB1 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Threonine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0014757 .
+
+ex:TotalMonounsaturated a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:TotalPhytosterols a owl:Class ;
+    rdfs:subClassOf ex:Phytosterols .
+
+ex:TotalPolyunsaturated a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:TransFattyAcids a owl:Class ;
+    rdfs:subClassOf ex:Macronutrients ;
+    owl:equivalentClass obo:NCIT_C68440 .
+
+ex:TransMonoenoicFats a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:TransPolyenoicFats a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:TridecanoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:Tryptophan a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0015201 .
+
+ex:Tyrosine a owl:Class ;
+    rdfs:subClassOf ex:ConditionallyEssentialAminoAcid .
+
+ex:Valine a owl:Class ;
+    rdfs:subClassOf ex:EssentialAminoAcid ;
+    owl:equivalentClass obo:OMIT_0015467 .
+
+ex:VitaminA a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminAIU a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminB12 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminB5 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminB6 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminC a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminD a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminD2 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminD3 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminDIU a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminE a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminK a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:VitaminK1 a owl:Class ;
+    rdfs:subClassOf ex:Vitamins .
+
+ex:Water a owl:Class ;
+    rdfs:subClassOf ex:OtherComponent .
+
+ex:Zinc a owl:Class ;
+    rdfs:subClassOf ex:Minerals .
+
+ex:alphaLinolenicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega3Fat,
+        ex:Omega6Fat .
+
+ex:cisDocosenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:cisOleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:cisPalmitoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:cisTetracosenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:cisVaccenicAcid a owl:Class ;
+    rdfs:subClassOf ex:MonounsaturatedFat .
+
+ex:ciscisn6EicosadienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:gammaLinolenicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega6Fat .
+
+ex:iOctadecadienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:n3EicosatrienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:Omega3Fat .
+
+ex:otherSugar a owl:Class ;
+    rdfs:subClassOf ex:Carbohydrates .
+
+ex:transDocosenoicAcid a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:transOctadecadienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:transOleicAcid a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:transPalmitoleicAcid a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:transtransOctadecadienoicAcid a owl:Class ;
+    rdfs:subClassOf ex:TransFat .
+
+ex:undifferentiatedOctadecatrienoic a owl:Class ;
+    rdfs:subClassOf ex:PolyunsaturatedFat .
+
+ex:Phytosterols a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:ConditionallyEssentialAminoAcid a owl:Class ;
+    rdfs:subClassOf ex:AminoAcids .
+
+ex:Omega3Fat a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:NonEssentialAminoAcid a owl:Class ;
+    rdfs:subClassOf ex:AminoAcids .
+
+ex:OtherComponent a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:TransFat a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:EssentialAminoAcid a owl:Class ;
+    rdfs:subClassOf ex:AminoAcids .
+
+ex:PolyunsaturatedFat a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Macronutrients a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:Carbohydrates a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:Fats a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:MonounsaturatedFat a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Minerals a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:Omega6Fat a owl:Class ;
+    rdfs:subClassOf ex:Fats .
+
+ex:Vitamins a owl:Class ;
+    rdfs:subClassOf ex:Food .
+
+ex:Food a owl:Class .
+
+ex:Weight a owl:Class ;
+    rdfs:subClassOf <http://example.org/22:4>,
+        ex:AddedSugar,
+        ex:Alanine,
+        ex:Alcohol,
+        ex:ArachidicAcid,
+        ex:ArachidonicAcid,
+        ex:Arginine,
+        ex:Ash,
+        ex:Asparticacid,
+        ex:BehenicAcid,
+        ex:Betaine,
+        ex:Betasitosterol,
+        ex:Biotin,
+        ex:Butyric,
+        ex:Caffeine,
+        ex:Calcium,
+        ex:Calories,
+        ex:Campesterol,
+        ex:CapricAcid,
+        ex:Caproic,
+        ex:CaprylicAcid,
+        ex:Carbohydrate,
+        ex:Carotenealpha,
+        ex:Carotenebeta,
+        ex:Chloride,
+        ex:Cholesterol,
+        ex:Choline,
+        ex:Chromium,
+        ex:ConjugatedLinoleicAcid,
+        ex:Copper,
+        ex:Cryptoxanthinbeta,
+        ex:Cystine,
+        ex:DihomogammalinolenicAcid,
+        ex:DocosahexaenoicAcid,
+        ex:DocosapentaenoicAcid,
+        ex:DocosenoicAcid,
+        ex:EicosapentaenoicAcid,
+        ex:EicosatetraenoicAcid,
+        ex:EicosatrienoicAcid,
+        ex:Fat,
+        ex:Fiber,
+        ex:Fluoride,
+        ex:Folate,
+        ex:FolateDFE,
+        ex:Folicacid,
+        ex:Foodfolate,
+        ex:Fructose,
+        ex:GadoleicAcid,
+        ex:Galactose,
+        ex:Glucose,
+        ex:Glutamicacid,
+        ex:Glycine,
+        ex:HeneicosapentaenoicAcid,
+        ex:HeptadecenoicAcid,
+        ex:Histidine,
+        ex:Hydroxyproline,
+        ex:InsolubleFiber,
+        ex:Iodine,
+        ex:Iron,
+        ex:Isoleucine,
+        ex:Lactose,
+        ex:LauricAcid,
+        ex:Leucine,
+        ex:LignocericAcid,
+        ex:LutZeaxanthin,
+        ex:Lycopene,
+        ex:Lysine,
+        ex:Macronutrients,
+        ex:Magnesium,
+        ex:Maltose,
+        ex:Manganese,
+        ex:MargaricAcid,
+        ex:Menaquinone4,
+        ex:Methionine,
+        ex:Molybdenum,
+        ex:MyristicAcid,
+        ex:MyristoleicAcid,
+        ex:NetCarbs,
+        ex:NiacinB3,
+        ex:OctadecadienoicAcid,
+        ex:OctadecatrienoicAcid,
+        ex:OleicAcid,
+        ex:Omega3s,
+        ex:Omega3toOmega6Ratio,
+        ex:Omega6s,
+        ex:Omega6toOmega3Ratio,
+        ex:PRALscore,
+        ex:PalmiticAcid,
+        ex:PalmitoleicAcid,
+        ex:ParinaricAcid,
+        ex:PentadecanoicAcid,
+        ex:PentadecenoicAcid,
+        ex:Phenylalanine,
+        ex:Phosphorus,
+        ex:Potassium,
+        ex:Proline,
+        ex:Protein,
+        ex:Retinol,
+        ex:RiboflavinB2,
+        ex:SaturatedFats,
+        ex:Selenium,
+        ex:Serine,
+        ex:Sodium,
+        ex:SolubleFiber,
+        ex:StearicAcid,
+        ex:Stigmasterol,
+        ex:Strarch,
+        ex:Sucrose,
+        ex:SugarAlcohols,
+        ex:Sugars,
+        ex:Theobromine,
+        ex:ThiaminB1,
+        ex:Threonine,
+        ex:TotalMonounsaturated,
+        ex:TotalPhytosterols,
+        ex:TotalPolyunsaturated,
+        ex:TransFattyAcids,
+        ex:TransMonoenoicFats,
+        ex:TransPolyenoicFats,
+        ex:TridecanoicAcid,
+        ex:Tryptophan,
+        ex:Tyrosine,
+        ex:Valine,
+        ex:VitaminA,
+        ex:VitaminAIU,
+        ex:VitaminB12,
+        ex:VitaminB5,
+        ex:VitaminB6,
+        ex:VitaminC,
+        ex:VitaminD,
+        ex:VitaminD2,
+        ex:VitaminD3,
+        ex:VitaminDIU,
+        ex:VitaminE,
+        ex:VitaminK,
+        ex:VitaminK1,
+        ex:Water,
+        ex:Weight,
+        ex:Zinc,
+        ex:alphaLinolenicAcid,
+        ex:cisDocosenoicAcid,
+        ex:cisOleicAcid,
+        ex:cisPalmitoleicAcid,
+        ex:cisTetracosenoicAcid,
+        ex:cisVaccenicAcid,
+        ex:ciscisn6EicosadienoicAcid,
+        ex:gammaLinolenicAcid,
+        ex:iOctadecadienoicAcid,
+        ex:n3EicosatrienoicAcid,
+        ex:otherSugar,
+        ex:transDocosenoicAcid,
+        ex:transOctadecadienoicAcid,
+        ex:transOleicAcid,
+        ex:transPalmitoleicAcid,
+        ex:transtransOctadecadienoicAcid,
+        ex:undifferentiatedOctadecatrienoic .
+
